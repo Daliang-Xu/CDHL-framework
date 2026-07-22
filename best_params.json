@@ -1,0 +1,18 @@
+{
+    "n_estimators": 1558,
+    "max_depth": 9,
+    "learning_rate": 0.019403634184699363,
+    "subsample": 0.880737893762285,
+    "colsample_bytree": 0.6087406339986489,
+    "colsample_bylevel": 0.6618623740356351,
+    "colsample_bynode": 0.6437495523406783,
+    "reg_alpha": 0.012879939926312553,
+    "reg_lambda": 0.0037542599088947826,
+    "gamma": 0.6585493253755156,
+    "min_child_weight": 4,
+    "grow_policy": "lossguide",
+    "max_leaves": 91,
+    "objective": "reg:squarederror",
+    "random_state": 72,
+    "n_jobs": 1
+}
